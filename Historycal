@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>История Барановичского горисполкома</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .photo {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .photo img {
+      max-width: 100%;
+      border: 2px solid #ccc;
+    }
+    .history {
+      font-size: 16px;
+      line-height: 1.6;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+  <h1>Барановичский горисполком</h1>
+  
+  <div class="photo">
+    <img src="staryj-gorispolkom.jpg" alt="Старое фото горисполкома">
+    <p><em>Старое фото здания (пример)</em></p>
+  </div>
+  
+  <div class="history">
+    <p><strong>Год постройки:</strong> 1939</p>
+    <p><strong>Архитектурный стиль:</strong> советский неоклассицизм.</p>
+    <p><strong>История:</strong> Здание горисполкома в Барановичах стало административным центром города в довоенные годы. 
+       В разные периоды здесь принимались ключевые решения по развитию города, проводились заседания и принимались важные постановления. 
+       Сегодня оно остаётся символом городской власти и исторической памяти.</p>
+  </div>
+</body>
+</html>
